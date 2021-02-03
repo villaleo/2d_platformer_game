@@ -13,3 +13,6 @@ index.html file in a web browser. Note: this project is built using the p5.js li
 to run the project on your machine you will need to also install a local server. Here is reference
 article: https://github.com/processing/p5.js/wiki/Local-server. I installed Node.js and followed 
 the instructions to run the program on my machine outside of the p5.js editor.
+
+You can also use an online editor such as repl.it and import the files there. I originally used
+repl.it to create this project.
