@@ -9,4 +9,7 @@ space bar to jump. Although the game may not be the best game ever, it is playab
 understanding of utlilizing libraries, basic logic, and object-oriented programming to create this.h
 
 If you would like to setup and run this project, you can download the repository and open the
-index.html file in a web browser.
+index.html file in a web browser. Note: this project is built using the p5.js library, so in order
+to run the project on your machine you will need to also install a local server. Here is reference
+article: https://github.com/processing/p5.js/wiki/Local-server. I installed Node.js and followed 
+the instructions to run the program on my machine outside of the p5.js editor.
