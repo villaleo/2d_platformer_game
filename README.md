@@ -1,4 +1,4 @@
-# 2d_platformer_game
+# platformer-game
 
 This is the final project I completed for the Google-sponsored Computer Science Summer Institute (CSSI).
 I worked on this project in a small group of three.
